@@ -26,7 +26,7 @@ cevaplar = {
     "vaka5": "PTEC",
 
     # 🌀 Portal 6 — İrem'in Şifre Kasası (İrem)
-    "vaka6": "",
+    "vaka6": "ANAHTAR",
 
     # 🌀 Portal 7 — Şiirin Portalı (Kaya)
     "vaka7": "",
