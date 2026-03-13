@@ -32,7 +32,7 @@ cevaplar = {
     "vaka7": "KAYBOLMA",
 
     # 🌀 Portal 8 — Mors Sinyalleri (Serhat)
-    "vaka8": "",
+    "vaka8": "ARAYIS",
 
     # 🌀 Portal 9 — Mantık Kapısı (Core Crew)
     "vaka9": "",
