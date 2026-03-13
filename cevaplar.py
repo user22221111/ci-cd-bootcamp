@@ -17,7 +17,7 @@ cevaplar = {
     "vaka2": "ALKU",
 
     # 🌀 Portal 3 — Makinelerin Dili (Mehmet)
-    "vaka3": "",
+    "vaka3": "CESARET",
 
     # 🌀 Portal 4 — Gizli Portal (Okan)
     "vaka4": "",
