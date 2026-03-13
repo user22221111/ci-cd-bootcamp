@@ -29,7 +29,7 @@ cevaplar = {
     "vaka6": "ANAHTAR",
 
     # 🌀 Portal 7 — Şiirin Portalı (Kaya)
-    "vaka7": "KAYBOLMA",
+    "vaka7": "LABIRENT",
 
     # 🌀 Portal 8 — Mors Sinyalleri (Serhat)
     "vaka8": "ARAYIS",
