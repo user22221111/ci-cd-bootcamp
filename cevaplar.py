@@ -35,7 +35,7 @@ cevaplar = {
     "vaka8": "ARAYIS",
 
     # 🌀 Portal 9 — Mantık Kapısı (Core Crew)
-    "vaka9": "",
+    "vaka9": "REHBER",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
     "vaka10": "",
