@@ -38,6 +38,6 @@ cevaplar = {
     "vaka9": "REHBER",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
-    "vaka10": "",
+    "vaka10": "MACERALAR",
 
 }
